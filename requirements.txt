@@ -1,0 +1,11 @@
+numpy
+scipy
+pyinterval
+tensorflow==2.11.0
+gym==0.18.0
+mujoco_py
+networkx
+scikit-learn
+seaborn
+imageio
+imageio-ffmpeg
